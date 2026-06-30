@@ -9,9 +9,9 @@
 //
 // Kept for reference only — safe to delete.
 
-const BASE_URL = 'http://10.0.2.2:8080/api'; // Android emulator localhost
+//const BASE_URL = 'http://10.0.2.2:8080/api'; // Android emulator localhost
 // const BASE_URL = 'http://localhost:8080/api'; // iOS simulator
-// const BASE_URL = 'https://your-deployed-backend.com/api'; // Production
+const BASE_URL = 'https://edgemarket-group119-1.onrender.com'; // Production
 
 export const api = {
   // Get all accounts with their open positions
